@@ -1,4 +1,4 @@
-const CACHE_NAME = 'you-invest-shell-v22';
+const CACHE_NAME = 'you-invest-shell-v20';
 const SHELL_FILES = [
   './',
   './index.html',
@@ -8,7 +8,6 @@ const SHELL_FILES = [
   './investment-model.js',
   './rewards-model.js',
   './localization.js',
-  './market-prices.js',
   './manifest.webmanifest',
   './icon.svg',
   './icon-192.png',
